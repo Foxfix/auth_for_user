@@ -16,6 +16,7 @@ instance/
 
 # Sphinx documentation
 docs/_build/
+authenticate/__pycache__/
 
 # PyBuilder
 target/
